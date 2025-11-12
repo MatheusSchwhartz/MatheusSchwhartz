@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Atualmente cursando:
-  - **Residência TIC Soft – Serratec (2025)**: formação intensiva em desenvolvimento de software com foco em back-end Java e front-end React.
+  - **Residência TIC/Software – Serratec (2025)**: formação intensiva em desenvolvimento de software com foco em back-end Java e front-end React.
   - **Bolsa Futuro Digital – Softex Pernambuco**: trilha de **Desenvolvedor Front-end**, com foco em design responsivo, integração de APIs e boas práticas de UI/UX.
 
 - 🧠 Conhecimentos adquiridos:
@@ -53,7 +53,7 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/matheusschwhartz1996?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- ✉️ Email: matheusschwhartz@gmail.com
+- ✉️ Email: matheus[schwhartz]@[gmail].com
 
 ---
 
